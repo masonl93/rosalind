@@ -1,2 +1,2 @@
 # rosalind
-[rosalind.info](rosalind.info)
+[rosalind.info](https://rosalind.info)
